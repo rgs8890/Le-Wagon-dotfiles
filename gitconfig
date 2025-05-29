@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rgs8890@gmail.com
+	name = rohit sunku
